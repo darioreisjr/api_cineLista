@@ -1,0 +1,19 @@
+{
+  "name": "api_cinelista",
+  "version": "1.0.0",
+  "description": "cineLista api desenvolvida em nodejs com mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darioreisjr/api_cineLista.git"
+  },
+  "author": "dev Dario Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darioreisjr/api_cineLista/issues"
+  },
+  "homepage": "https://github.com/darioreisjr/api_cineLista#readme"
+}
