@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/darioreisjr/api_cineLista/issues"
   },
-  "homepage": "https://github.com/darioreisjr/api_cineLista#readme"
+  "homepage": "https://github.com/darioreisjr/api_cineLista#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1"
+  }
 }
